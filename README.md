@@ -6,7 +6,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/Twydir1762/parser_task.git
+git clone https://github.com/Twydir1762/Logs-Parser.git
 ```
 
 2. Перейдите в директорию проекта:
